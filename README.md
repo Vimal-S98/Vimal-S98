@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on building data analysis projects using Python, SQL, and PowerBI
+- 🌱 I’m currently learning advanced SQL, Python for data analysis, data visualization, and machine learning basics.
+- 👯 I’m looking to collaborate on data analysis projects, dashboard building, and open datasets that need cleaning, visualization, or insights.
+- 📫 How to reach me: vimal70417@gmail.com
 <!--
 **Vimal-S98/Vimal-S98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
