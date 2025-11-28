@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Vimal, and I'm an aspiring data analyst interested in Python, SQL, data cleaning, visualization, and building dashboards that turn data into clear insights.
+
 - 🔭 I’m currently working on building data analysis projects using Python, SQL, and PowerBI
 - 🌱 I’m currently learning advanced SQL, Python for data analysis, data visualization, and machine learning basics.
 - 👯 I’m looking to collaborate on data analysis projects, dashboard building, and open datasets that need cleaning, visualization, or insights.
